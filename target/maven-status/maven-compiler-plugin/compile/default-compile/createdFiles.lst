@@ -1,0 +1,6 @@
+org\example\controller\StudentController.class
+org\example\Main.class
+org\example\entities\Student.class
+org\example\service\StudentService.class
+org\example\SecretClientConfiguration.class
+org\example\dao\StudentRepository.class
