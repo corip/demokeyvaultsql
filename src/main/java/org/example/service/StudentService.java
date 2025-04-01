@@ -16,6 +16,6 @@ public class StudentService {
     public List<Student> getStudents(){
         List<Student> lsStudent;
         lsStudent = (List<Student>) studentRepository.findAll();
-        return lsStudent;
+        return lsStudent; //test
     }
 }
