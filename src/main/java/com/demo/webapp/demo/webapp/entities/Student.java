@@ -1,4 +1,4 @@
-package org.example.entities;
+package com.demo.webapp.demo.webapp.entities;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -17,7 +17,6 @@ public class Student {
     private String lastName;
 
     private int age;
-
 
     public Long getId() {
         return id;

@@ -1,6 +1,6 @@
-package org.example.dao;
+package com.demo.webapp.demo.webapp.dao;
 
-import org.example.entities.Student;
+import com.demo.webapp.demo.webapp.entities.Student;
 import org.springframework.data.repository.CrudRepository;
 
 public interface StudentRepository extends CrudRepository<Student,Long> {

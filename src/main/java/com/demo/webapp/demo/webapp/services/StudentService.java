@@ -1,7 +1,7 @@
-package org.example.service;
+package com.demo.webapp.demo.webapp.services;
 
-import org.example.dao.StudentRepository;
-import org.example.entities.Student;
+import com.demo.webapp.demo.webapp.dao.StudentRepository;
+import com.demo.webapp.demo.webapp.entities.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
